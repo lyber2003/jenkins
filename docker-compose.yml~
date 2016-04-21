@@ -1,5 +1,0 @@
-jenkins:
-    build: jenkins
-    ports:
-        - 8083:8083
-
